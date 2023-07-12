@@ -10,7 +10,7 @@ This project is a step-by-step guide on how to integrate OpenAI's ChatGPT with a
 
 ## Tutorial
 
-The full tutorial is available on Medium → [Exploring AI Development: Creating ChatGPT Plugins with Next.js and TypeScript](https://medium.com/@schoon)
+The full tutorial is available on Medium → [Exploring AI Development: Creating ChatGPT Plugins with Next.js and TypeScript](https://medium.com/@schoon/exploring-ai-development-creating-chatgpt-plugins-with-next-js-and-typescript-4f0b04b2e7e6)
 
 ## Getting Started
 
