@@ -28,7 +28,7 @@ git clone https://github.com/dschoon/ChatGPT-Plugin-TS.git
 ```
 2. Install NPM packages
 ```bash
-cd your-repo-name
+cd ChatGPT-Plugin-TS
 npm install
 ```
 ### Running the Application
