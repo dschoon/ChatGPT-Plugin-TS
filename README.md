@@ -47,4 +47,4 @@ Open http://localhost:3000 with your browser to see the result.
 
 Distributed freely under the MIT License
 
-[Dan Schoonmaker](https://danielschoonmaker.com) [(github)](https://github.com/dschoon)
+[Dan Schoonmaker](https://www.schoon.me) [(github)](https://github.com/dschoon)
